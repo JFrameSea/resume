@@ -13,7 +13,7 @@ module.exports = {
   },
 
   assetsDir: 'static',
-  publicPath: '/',
+  publicPath: '././',
 
   configureWebpack: {
     externals: {
